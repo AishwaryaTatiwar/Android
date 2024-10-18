@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Myfirstapp</string>
+    <string name="hello">Hello World</string>
+    <string name="title1">Without using weightSum</string>
+    <string name="title2">Using weightSum</string>
+    <string name="and">Android</string>
+    <string name="str1">Enter Your Voting ID:</string>
+    <string name="str2">Enter Your Name:</string>
+    <string name="str3">Party Name</string>
+    <string name="str4">Candidate Name</string>
+    <string name="str5">Vote</string>
+    <string name="str6">ABC</string>
+    <string name="str7">Mr.C.Martin</string>
+    <string name="str8">BCD</string>
+    <string name="str9">Mr.A.Johnson</string>
+    <string name="str10">DEF</string>
+    <string name="str11">Mr.K.Wales</string>
+</resources>
